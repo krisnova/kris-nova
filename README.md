@@ -15,12 +15,12 @@ she is an international internet celebrity who does significant computer boops. 
 ### 🤔 personal projects i am working on
 
  - [specialk](https://github.com/kris-nova/specialk) pid 1 and systemd replacement built exclusively for kubernetes
- - [nivenly.com](github.com/kris-nova/nivenly.com) which is live at [nivenly.com](https://nivenly.com)
- - [novix](github.com/kris-nova/novix) a arm64 linux based operating system and userspace of my own design
+ - [nivenly.com](https://github.com/kris-nova/nivenly.com) which is live at [nivenly.com](https://nivenly.com)
+ - [novix](https://github.com/kris-nova/novix) a arm64 linux based operating system and userspace of my own design
 
 ### 🔭 open source projects
 
  - [COSI project](https://github.com/cosi-project/community) i co-founded the [cosi project](https://github.com/cosi-project/community) which attempts to standardize operarting system components for distributed operating systems with kubernetes
- - [kubicorn[(https://github.com/kubicorn)
- - [kubernetes](github.com/kubernetes/kubernetes)
- - [linux](github.com/kris-nova/linux)
+ - [kubicorn](https://github.com/kubicorn)
+ - [kubernetes](https://github.com/kubernetes/kubernetes)
+ - [linux](https://github.com/kris-nova/linux)

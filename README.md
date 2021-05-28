@@ -10,6 +10,7 @@ she is an international internet celebrity who does significant computer boops. 
 
 ### 💬 recent news
 
+ - [the naming project](https://github.com/the-naming-project/the-naming-project) open source libraries and generators for creating determinstic human pronouncable names.
  - [the distributed operarting system void](https://nivenly.com/lib/2021-04-02-operating-system-interface/) is a paper that highlights the problem space with distributed operating systems with kubernetes
 
 ### 🤔 personal projects i am working on

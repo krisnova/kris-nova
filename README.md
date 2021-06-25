@@ -8,6 +8,14 @@ she is an international internet celebrity who does significant computer skills 
  - [nivenly.com](https://nivenly.com) is my official page with resources
  - [follow me on twitter @krisnova](https://twitter.com/krisnova) for cyptic ramblings about capitalism and cute dogs
 
+### 📘 read my important published words
+
+ - [author](https://nivenly.com/author) page on my website
+ - [o'reilly](https://www.oreilly.com/people/kris-nova/) author website
+ - [cloud native infrastructure](https://cnibook.info) landing page
+ 
+ ![](https://www.cnibook.info/img/cnibook_cover_small.png)
+
 ### 💬 recent news
 
  - [infrastructure as software](https://nivenly.com/lib/2021-06-13-ias) read the infrastructure ideas that inspired naml

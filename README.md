@@ -12,7 +12,7 @@ Today she works as a Senior Principal engineer at Twilio focusing on enterprise 
  
  ## Resources 📘
  
-  = [Follow on Twitter](https://twitter.com/krisnova)
+  - [Follow on Twitter](https://twitter.com/krisnova)
   - [Live on Twitch!](https://twitch.tv/krisnova)
   - [Nivenly.com](https://nivenly.com)
   - [YouTube Channel](https://www.youtube.com/channel/UCRvH2UexTzcbZRwCS6OxJ3w)

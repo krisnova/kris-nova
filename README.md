@@ -1,34 +1,40 @@
-### 🏴‍☠️ kris nóva
+# Kris Nóva
 
-kris nóva is a professional business adult who works on very important grown-up computers. 
+[Official Biography](https://nivenly.com/bio)
 
-she is an international internet celebrity who does significant computer skills in the cloud. she is world-famous for her professional business work on kubernetes, linux, and infrastructure. she is a successful grown-up person, and specializes in cybersecurity in distributed computing environments.
+_July 2021 Updated for Twilio, Personal, and The Privilege Escalation Foundation_
+
+Kris Nóva is a computer scientist, alpinist, author, public speaker and transgender advocate best known for her work on Linux and Kubernetes. She specalizes in Linux kernel security, distributed systems and infrastructure management, and open source software engineering. In 2017 she co-authored Cloud Native Infrastructure, published by O’Reilly.
+
+Nóva is well known for her open source contributions including projects like Linux, Kubernetes, and The Go Programming Language. A popular public speaker, she is best known for her Kubernetes clusterfuck talks. She co-founded the cluster API project, created Kubicorn, and created naml for managing Kubernetes resources with pure Go.
+
+Today she works as a Senior Principal engineer at Twilio focusing on enterprise bare metal Kubernetes systems. She is the founder of The Privilege Escalation Foundation, which is a non-profit focusing on offering resources for transgender minds in STEM.
  
- - [live on twitch @krisnova](https://nivenly.com/live) i stream all my open source and lab work live
- - [nivenly.com](https://nivenly.com) is my official page with resources
- - [follow me on twitter @krisnova](https://twitter.com/krisnova) for cyptic ramblings about capitalism and cute dogs
+ ## Resources 📘
+ 
+  = [Follow on Twitter](https://twitter.com/krisnova)
+  - [Live on Twitch!](https://twitch.tv/krisnova)
+  - [Nivenly.com](https://nivenly.com)
+  - [YouTube Channel](https://www.youtube.com/channel/UCRvH2UexTzcbZRwCS6OxJ3w)
+  - [Headshots](https://github.com/kris-nova/nivenly.com/tree/main/static/assets/logo)
+ 
 
-### 📘 read my important published words
+### Very important 💼 business author!
 
- - [author](https://nivenly.com/author) page on my website
- - [o'reilly](https://www.oreilly.com/people/kris-nova/) author website
- - [cloud native infrastructure](https://cnibook.info) landing page
+ - [Author Page](https://nivenly.com/author) on [nivenly.com](https://nivenly.com/author).
+ - [O'Reilly](https://www.oreilly.com/people/kris-nova/) writer.
+ - [Cloud Native Infrastructure](https://cnibook.info) landing page
  
  ![](https://www.cnibook.info/img/cnibook_cover_small.png)
 
-### 💬 recent news
+### 💬 Recent Work
 
- - [infrastructure as software](https://nivenly.com/lib/2021-06-13-ias) read the infrastructure ideas that inspired naml
- - [naml](https://github.com/kris-nova/naml) not another markup language explores how we can use raw Go instead of Kubernetes YAML
- - [the naming project](https://github.com/the-naming-project/the-naming-project) open source libraries and generators for creating determinstic human pronouncable names.
- - [the distributed operarting system void](https://nivenly.com/lib/2021-04-02-operating-system-interface/) is a paper that highlights the problem space with distributed operating systems with kubernetes
-
-### 🤔 personal projects i am working on
-
- - [naml](https://github.com/kris-nova/naml) not another markup language explores how we can use raw Go instead of Kubernetes YAML
- - [specialk](https://github.com/kris-nova/specialk) pid 1 and systemd replacement built exclusively for kubernetes
- - [nivenly.com](https://github.com/kris-nova/nivenly.com) which is live at [nivenly.com](https://nivenly.com)
- - [novix](https://github.com/kris-nova/novix) a arm64 linux based operating system and userspace of my own design
+ - [Blog: Infrastructure as Software](https://nivenly.com/lib/2021-06-13-ias) read the infrastructure ideas that inspired naml
+ - [Go Code: NAML](https://github.com/kris-nova/naml) not another markup language explores how we can use raw Go instead of Kubernetes YAML
+ - [C Code: The Naming Project](https://github.com/the-naming-project/the-naming-project) open source libraries and generators for creating determinstic human pronouncable names.
+ - [Blog: The Distributed Operarting System Void](https://nivenly.com/lib/2021-04-02-operating-system-interface/) is a paper that highlights the problem space with distributed operating systems with kubernetes
+ - [Nivenly.com](https://github.com/kris-nova/nivenly.com) which is live at [nivenly.com](https://nivenly.com)
+ - [Novix](https://github.com/kris-nova/novix) a arm64 linux based operating system and userspace of my own design
 
 ### 🔭 open source projects
 
